@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class TopicList {
-    protected ArrayList<Topic> topicList;
+    private ArrayList<Topic> topicList;
     private static Ui ui;
 
 
